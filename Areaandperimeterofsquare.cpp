@@ -9,7 +9,7 @@ int main() {
     cin>>s ;
     A = s*s ;
     P = 4*s;
-    cout << "The perimeter of a square is:" << P <<endl ;
-    cout << "The area of a square is:" << A  ;
+    cout << "The perimeter of a square is:" << P;
+    cout << "The area of a square is:" << A;
     return 0;
 }
