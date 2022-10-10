@@ -7,4 +7,4 @@ int main(){
     cout << "The entered value is "<< a ;
     cout << " Guess "<< &a;
 	return 0;
-}
+}       
